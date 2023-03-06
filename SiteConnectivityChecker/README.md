@@ -40,7 +40,7 @@ python -m SiteConnectivityChecker --h to see a list of commands
 ![Algorithm schema](imgs/img_4.png)
 
 ## Project Status:
-- [x] 
+- [x] Status
 
 
 
