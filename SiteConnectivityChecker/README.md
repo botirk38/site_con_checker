@@ -29,7 +29,11 @@ python -m SiteConnectivityChecker --h to see a list of commands
 ### CLI Interface 
 ![Algorithm schema](imgs/img_.png)
 
+### Synchronous Check of Site servers
 ![Algorithm schema](imgs/img_2.png)
+
+![Algorithm schema](imgs/img_3.png)
+
 
 
 
