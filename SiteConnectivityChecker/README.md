@@ -27,5 +27,5 @@ python -m SiteConnectivityChecker --h to see a list of commands
 ## Application Illustration
 ```
 
-![Algorithm schema](site_con_checker/SiteConnectivityChecker/imgs/img.jpg)
+![Algorithm schema](imgs/img.jpg)
 
