@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Application Illustration](#app-illustration)
+* [Application Illustration](#application illustration-illustration)
 
 ## General Info
 This is a simple CLI application that takes a url as input and sends a HTTP request to a website's server in order to see it's status
