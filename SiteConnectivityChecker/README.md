@@ -25,6 +25,7 @@ For Windows/Linux:
 python -m SiteConnectivityChecker --h to see a list of commands
 
 ## Application Illustration
+```
 
 ![Algorithm schema](./imgs/img.jpg)
 
