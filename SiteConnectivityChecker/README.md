@@ -33,7 +33,10 @@ python -m SiteConnectivityChecker --h to see a list of commands
 ### Synchronous Check of Site servers
 ![Algorithm schema](imgs/img_2.png)
 
+### Asyncronous Check of Site Servers
 ![Algorithm schema](imgs/img_3.png)
+
+![Algorithm schema](imgs/img_4.png)
 
 
 
