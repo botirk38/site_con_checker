@@ -23,9 +23,9 @@ python3 -m SiteConnectivityChecker --h to see a list of commands
 
 For Windows/Linux:
 python -m SiteConnectivityChecker --h to see a list of commands
-
-## Application Illustration
 ```
+## Application Illustration
+
 
 ![Algorithm schema](imgs/img_.png)
 
