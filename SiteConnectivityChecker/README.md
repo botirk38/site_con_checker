@@ -39,6 +39,8 @@ python -m SiteConnectivityChecker --h to see a list of commands
 ### Checking a non existing website
 ![Algorithm schema](imgs/img_4.png)
 
+## Project Status:
+[x]
 
 
 
