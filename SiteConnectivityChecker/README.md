@@ -26,6 +26,11 @@ python -m SiteConnectivityChecker --h to see a list of commands
 ```
 ## Application Illustration
 
-
+### CLI Interface 
 ![Algorithm schema](imgs/img_.png)
+
+![Algorithm schema](imgs/img_2.png)
+
+
+
 
